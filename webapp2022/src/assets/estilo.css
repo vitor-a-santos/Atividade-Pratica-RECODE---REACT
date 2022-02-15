@@ -1,0 +1,70 @@
+* {
+    margin: 0cm;
+    padding: 0cm;
+}
+
+    
+#footer  {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    size: 4;
+    color: rgb(122, 8, 122);   
+}
+
+
+.container-fluid {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    size: 14;
+    
+    } 
+
+    #contato  {
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        size: 4;
+          
+    }
+
+    
+
+/**
+
+
+
+
+.card-title {
+    margin-top: 0px;
+    font-size: 24px;
+}
+
+.pacotes {
+    width: 100vw;
+    height: 100vh;
+    display: flex;      
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.card-img-top {
+    grid-area: image;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+}
+
+.container {     
+    text-align-last: center;
+    justify-content: center;
+    
+}
+
+
+ 
+
+    
+*/
